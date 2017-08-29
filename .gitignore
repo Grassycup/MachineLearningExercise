@@ -49,3 +49,5 @@ Temporary Items
 .venv3
 datasets
 .ipynb_checkpoints
+
+.idea
