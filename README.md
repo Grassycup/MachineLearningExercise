@@ -1,10 +1,6 @@
 # MachineLearningNotebook
 Jupyter Notebook Containing Various Machine Learning Goodness
 
-## Dependencies
-
-Anaconda - https://conda.io/docs/user-guide/install/macos.html
-
 
 ## Getting Started
 
@@ -12,19 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Anaconda - https://conda.io/docs/user-guide/install/macos.html
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+```
+conda install pandas # install pandas
+```
 
 ## Built With
 
